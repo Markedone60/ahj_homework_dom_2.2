@@ -1,0 +1,17 @@
+.field-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 496px;
+  margin: auto;
+}
+
+.cell {
+  background-color: yellow;
+  width: 120px;
+  height: 120px;
+  margin: 2px;
+}
+
+.active {
+  background-image: url('../png/goblin.png');
+}
